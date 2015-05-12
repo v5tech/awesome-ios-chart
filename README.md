@@ -262,35 +262,4 @@ https://github.com/kevinbrewster/SwiftCharts
 
 https://github.com/nero-tang/ARPieChart
 
-![Screenshot](https://raw.githubusercontent.com/nero-tang/ARPieChart/blob/master/screenshots/ARPieChartDemo.gif)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot](https://raw.githubusercontent.com/nero-tang/ARPieChart/master/screenshots/ARPieChartDemo.gif)
