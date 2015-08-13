@@ -263,3 +263,7 @@ https://github.com/kevinbrewster/SwiftCharts
 https://github.com/nero-tang/ARPieChart
 
 ![Screenshot](https://raw.githubusercontent.com/nero-tang/ARPieChart/master/screenshots/ARPieChartDemo.gif)
+
+https://github.com/mengmanzbh/KlineInSwift
+
+![Screenshot](https://raw.githubusercontent.com/mengmanzbh/image/master/aa.gif)
