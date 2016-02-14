@@ -113,7 +113,7 @@ Chart
 
 https://github.com/sakrist/VBPieChart
 
-![](https://github.com/sakrist/VBPieChart/blob/master/demonstration.gif)
+![](https://raw.githubusercontent.com/sakrist/VBPieChart/master/Screenshot.png)
 
 https://github.com/ZhipingYang/UUChartView
 
@@ -145,7 +145,7 @@ https://github.com/raspu/RPRadarChart
 
 https://github.com/Valentin-Kalchev/VKBarChartView
 
-![](https://raw.githubusercontent.com/Valentin-Kalchev/VKBarChartView/blob/master/VKBarChartView.gif)
+![](https://raw.githubusercontent.com/Valentin-Kalchev/VKBarChartView/master/VKBarChartView.gif)
 
 
 * Swift
@@ -178,7 +178,7 @@ https://github.com/danielgindi/ios-charts
 
  - **Horizontal-BarChart**
 
-![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/horizontal_barchart.jpg)
+![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/horizontal_barchart.png)
 
 
  - **PieChart (with selection, ...)**
