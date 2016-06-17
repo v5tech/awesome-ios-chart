@@ -4,6 +4,22 @@ A curated list of awesome iOS chart libraries, including Objective-C and Swift
 
 * Objective-C
 
+##Dr-Charts:
+[Zomato/Dr-Charts](https://github.com/Zomato/DR-charts)
+
+
+![LineChart](https://raw.githubusercontent.com/Zomato/DR-charts/master/art/LineChart.gif)
+
+![BarChart](https://raw.githubusercontent.com/Zomato/DR-charts/master/art/BarChart.gif)
+
+![PieChart](https://raw.githubusercontent.com/Zomato/DR-charts/master/art/PieChart.gif)
+
+![HorizontalStackChart](https://raw.githubusercontent.com/Zomato/DR-charts/master/art/HorizontalStackChart.gif)
+
+![CircularChart](https://raw.githubusercontent.com/Zomato/DR-charts/master/art/CircularChart.gif) 
+
+
+
 https://github.com/kevinzhow/PNChart
 
 [![](https://dl.dropboxusercontent.com/u/1599662/pnchart.gif)](https://dl.dropboxusercontent.com/u/1599662/pnchart.gif)
