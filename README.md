@@ -263,6 +263,12 @@ https://github.com/AAChartModel/AAChartKit
 
 ![image](https://github.com/AAChartModel/AAChartKit/blob/master/AAChartKitDemo/ChartsDemo/AAChartKitShow.gif)
 
+https://github.com/JunyiXie/XJYChart
+
+![image](https://github.com/JunyiXie/XJYChart/raw/master/photos/image1.PNG)
+![image](https://github.com/JunyiXie/XJYChart/raw/master/photos/image4.PNG)
+![image](https://github.com/JunyiXie/XJYChart/raw/master/photos/image5.PNG)
+
 * Swift
 
 https://github.com/danielgindi/ios-charts
