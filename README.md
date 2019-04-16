@@ -1,6 +1,6 @@
 # awesome-ios-chart
 
-A curated list of awesome iOS chart libraries, including Objective-C and Swift
+A curated list of awesome iOS chart libraries, including Objective-C and [Swift](./README.md#swift).
 
 * Objective-C
 
@@ -269,7 +269,7 @@ https://github.com/JunyiXie/XJYChart
 ![image](https://github.com/JunyiXie/XJYChart/raw/master/photos/image4.PNG)
 ![image](https://github.com/JunyiXie/XJYChart/raw/master/photos/image5.PNG)
 
-* Swift
+## Swift
 
 https://github.com/danielgindi/ios-charts
 
@@ -300,7 +300,6 @@ https://github.com/danielgindi/ios-charts
  - **Horizontal-BarChart**
 
 ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/horizontal_barchart.png)
-
 
  - **PieChart (with selection, ...)**
 
