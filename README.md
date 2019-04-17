@@ -138,36 +138,34 @@ _All of their images are currently unavailable._
 
 ![](https://raw.githubusercontent.com/dainkaplan/Chartreuse/master/iphone-screenshot.png)
 
-
-
-https://github.com/Valentin-Kalchev/VKBarChartView
+### Valentin-Kalchev's _VKBarChartView_ [🔗](https://github.com/Valentin-Kalchev/VKBarChartView)
 
 ![](https://raw.githubusercontent.com/Valentin-Kalchev/VKBarChartView/master/VKBarChartView.gif)
 
-https://github.com/yate1996/Y_KLine
+### yate1996's _Y_KLine_ [🔗](https://github.com/yate1996/Y_KLine)
 
-## 普通K线
+#### 普通K线
 ![普通K线](http://images2015.cnblogs.com/blog/784141/201605/784141-20160512232207577-321982028.png)
 ---
-## 普通K线+MACD副图
+#### 普通K线+MACD副图
 ![普通K线+MACD副图](http://images2015.cnblogs.com/blog/784141/201605/784141-20160512232150452-239970289.png)
 ---
-## 普通K线+KDJ副图
+#### 普通K线+KDJ副图
 ![普通K线+KDJ副图](http://images2015.cnblogs.com/blog/784141/201605/784141-20160512232158515-2083550522.png)
 ---
-## 分时图
+#### 分时图
 ![分时图](http://images2015.cnblogs.com/blog/784141/201605/784141-20160512232213202-486002469.png)
 ---
-## 分时图+MACD副图
+#### 分时图+MACD副图
 ![分时图+MACD副图](http://images2015.cnblogs.com/blog/784141/201605/784141-20160512232142827-1554494273.png)
 ---
-## 其他功能
+#### 其他功能
 ![其他功能](http://images2015.cnblogs.com/blog/784141/201605/784141-20160512232934905-1866701052.png)
 ---
-## 综合演示
+#### 综合演示
 ![K线综合演示](http://images2015.cnblogs.com/blog/784141/201605/784141-20160512231537202-1121097756.gif)
 
-https://github.com/AAChartModel/AAChartKit
+### AAChartModel's _AAChartKit_ [🔗](https://github.com/AAChartModel/AAChartKit)
 
 ![AAChartKit-LOGO](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/AAChartKit-Logo.png)
 
@@ -183,69 +181,69 @@ https://github.com/AAChartModel/AAChartKit
 | :----:  | :----: | :----: |
 | ![image1](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/BeautyAppreciation/SplineChart.png) | ![image1](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/BeautyAppreciation/AreasplineChart.png) | ![image1](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/BeautyAppreciation/StackedPolarChart.png) |
 
-## Samples
+#### Samples
 
--  ### line chart
+-  ** line chart **
 
 ![IMG_1867.JPG](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/LineChart.png)
 
--  ### column chart
+-  ** column chart **
 
 ![IMG_1873.JPG](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/ColumnChart.png)
 
-- ###  bar chart
+- **  bar chart **
 
 ![IMG_1880.JPG](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/BarChart.png)
 
-- ### special area chart one
+- ** special area chart one **
 
 ![IMG_1869.JPG](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/IMG_1482.JPG)
 
-- ### special area chart two
+- ** special area chart two **
 
 ![IMG_1871.JPG](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/AreasplineChart.png)
 
-- ### special area chart three
+- ** special area chart three **
 
 ![IMG_1863.JPG](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/PictureResources/屏幕快照%202017-05-06%20下午6.58.15.png)
 
-- ### radar chart
+- ** radar chart **
 
 ![IMG_1877.JPG](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/RadarChart.png)
 
-- ### polar chart
+- ** polar chart **
 
 ![IMG_1879.JPG](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/PolarChart.png)
 
-- ### pie chart
+- ** pie chart **
 
 ![IMG_1878.JPG](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/PieChart.png)
 
-- ### bubble chart
+- ** bubble chart **
 
 ![IMG_1875.JPG](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAChartKit/BubbleChart.png)
 
-- ### scatter chart
+- ** scatter chart **
 
 ![scatter chart](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAInfographics/ScatterChart.png)
 
-- ### arearange chart
+- ** arearange chart **
 
 ![arearange chart](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAInfographics/ArearangeChart.png)
 
-- ### step area chart
+- ** step area chart **
 
 ![step area chart](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAInfographics/StepAreaChart.png)
 
-- ### mixed chart
+- ** mixed chart **
 
 ![mixed chart](https://github.com/AAChartModel/loadHtmlCssJsDemo-master/blob/master/AAInfographics/MixedChart.png)
 
-## More graphics
+#### More graphics
 
 ![image](https://github.com/AAChartModel/AAChartKit/blob/master/AAChartKitDemo/ChartsDemo/AAChartKitShow.gif)
 
-https://github.com/JunyiXie/XJYChart
+### JunyiXie's _XJYChart_ [🔗](https://github.com/JunyiXie/XJYChart)
 
 ![image](https://github.com/JunyiXie/XJYChart/raw/master/photos/image1.PNG)
 ![image](https://github.com/JunyiXie/XJYChart/raw/master/photos/image4.PNG)
