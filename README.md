@@ -123,18 +123,18 @@ _All of their images are currently unavailable._
 
 ![](https://raw.github.com/eternityz/RWBarChartView/master/Screenshots/demo.gif)
 
-https://github.com/hugo53/HUChart
+### hugo53's _HUChart_ [🔗](https://github.com/hugo53/HUChart)
 
 ![SemiCircle Chart Example](https://dl.dropboxusercontent.com/s/u5siul88u80lev8/semiCircleChart_example.png)
 
 ![SemiCircle Chart Iphone](https://dl.dropboxusercontent.com/s/885h1mzpqh05k1z/semiCircleChartIphoneV6.jpg)
 
-https://github.com/honcheng/AcornCharts-for-iOS
+### Honcheng's _AcornCharts-for-iOS_ [🔗](https://github.com/honcheng/AcornCharts-for-iOS)
 
 ![](https://github.com/honcheng/AcornCharts-for-iOS/raw/master/Screenshots/ball_size.png)
 ![](https://github.com/honcheng/AcornCharts-for-iOS/raw/master/Screenshots/ball_quantity.png)
 
-https://github.com/dainkaplan/Chartreuse
+### dainkaplan's _Chartreuse_ [🔗](https://github.com/dainkaplan/Chartreuse)
 
 ![](https://raw.githubusercontent.com/dainkaplan/Chartreuse/master/iphone-screenshot.png)
 
