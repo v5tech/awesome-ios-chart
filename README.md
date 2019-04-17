@@ -364,7 +364,7 @@ _All of their images are currently unavailable._
 ![Dynamic Example](http://kevinbrewster.github.io/SwiftCharts/images/dynamic_example.png)
 ![Multiaxis Example](http://kevinbrewster.github.io/SwiftCharts/images/multiaxis_example.png)
 
-https://github.com/nero-tang/ARPieChart
+### nero-tang's _ARPieChart_ [🔗](https://github.com/nero-tang/ARPieChart)
 
 ![Screenshot](https://raw.githubusercontent.com/nero-tang/ARPieChart/master/screenshots/ARPieChartDemo.gif)
 
