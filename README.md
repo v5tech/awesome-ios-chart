@@ -352,9 +352,9 @@ _All of their images are currently unavailable._
 ![Interface Builder UI](https://raw.github.com/tylyo/APLineChart/master/images/IBuilder.png)
 ![controls](https://raw.github.com/tylyo/APLineChart/master/images/controls.png)
 
-https://github.com/DuncanMC/PieChart
+### DuncanMC's _PieChart_ [🔗](https://github.com/DuncanMC/PieChart)
 
-![](https://raw.githubusercontent.com/DuncanMC/PieChart/master/Screenshot.jpg)
+![Overview](https://raw.githubusercontent.com/DuncanMC/PieChart/master/Screenshot.jpg)
 
 https://github.com/kevinbrewster/SwiftCharts
 
