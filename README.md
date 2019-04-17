@@ -93,19 +93,19 @@ _All of their images are currently unavailable._
 ![](https://raw.githubusercontent.com/sebastienwindal/FRD3DBarChart/master/screenshot.png)
 ![](https://raw.githubusercontent.com/sebastienwindal/FRD3DBarChart/master/screenshot2.png)
 
-https://github.com/sergeylenkov/Yuba
+### sergeylenkov's _Yuba_ [🔗](https://github.com/sergeylenkov/Yuba)
 
-Map
+#### Map
 
 ![PTMapView](http://farm5.static.flickr.com/4035/4673547619_fb511e721d.jpg)
 
-Graph
+#### Graph
 
 ![PTGraphView](http://farm5.static.flickr.com/4007/4673548077_33dda81e6e.jpg)
 ![PTGraphView](http://farm2.static.flickr.com/1298/4673547735_68ea1aea4d.jpg)
 ![PTGraphView](http://farm5.static.flickr.com/4045/4673547807_684be1c376.jpg)
 
-Chart
+#### Chart
 
 ![PTChartView](http://farm5.static.flickr.com/4071/4674170204_b20998d386.jpg)
 ![PTChartView](http://farm2.static.flickr.com/1273/4674170304_68b79a8f87.jpg)
