@@ -54,10 +54,10 @@ _All of their images are currently unavailable._
 ![eLine](https://dl.dropboxusercontent.com/s/ehhscvf1m48v04h/eLine.gif)
 ![ePie](https://dl.dropboxusercontent.com/s/2we5ay0fv5jmc6y/ePie.gif)
 
-https://github.com/ArthurGuibert/FSLineChart
+### ArthurGuibert's _FSLineChart_ [🔗](https://github.com/ArthurGuibert/FSLineChart)
 
-![](https://raw.githubusercontent.com/ArthurGuibert/FSLineChart/master/Screenshots/fslinechart.png)
-![](https://raw.githubusercontent.com/ArthurGuibert/FSLineChart/master/Screenshots/fslinechart2.png)
+![Screenshot1](https://raw.githubusercontent.com/ArthurGuibert/FSLineChart/master/Screenshots/fslinechart.png)
+![Screenshot2](https://raw.githubusercontent.com/ArthurGuibert/FSLineChart/master/Screenshots/fslinechart2.png)
 
 https://github.com/zhiyu/chartee
 
