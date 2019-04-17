@@ -313,8 +313,12 @@ https://github.com/JunyiXie/XJYChart
  - **RadarChart** (spider web chart)
 ![alt tag](https://raw.github.com/PhilJay/MPAndroidChart/master/screenshots/radarchart.png)
 
-https://github.com/kevinzhow/PNChart-Swift
+### Kevinzhow's Swift _PNChart_ [🔗](https://github.com/kevinzhow/PNChart-Swift)
 
+![Overview](https://s3.amazonaws.com/farshid.ghods.github/pnchart-gif.gif)
+
+
+![GridLine](https://s3.amazonaws.com/farshid.ghods.github/pnchart-gridline.png)
 
 https://github.com/i-schuetz/SwiftCharts
 
