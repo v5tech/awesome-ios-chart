@@ -26,7 +26,7 @@ A curated list of awesome iOS chart libraries, including [Objective-C](./README.
 
 ![GridLine](https://s3.amazonaws.com/farshid.ghods.github/pnchart-gridline.png)
 
-https://github.com/Jawbone/JBChartView
+### Jawbone's _JBChartView_ [🔗](https://github.com/Jawbone/JBChartView)
 
 ![](https://raw.github.com/Jawbone/JBChartView/master/Screenshots/main.jpg)
 
