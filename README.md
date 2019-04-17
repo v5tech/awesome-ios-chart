@@ -76,7 +76,7 @@ _All of their images are currently unavailable._
 ![](https://cloud.githubusercontent.com/assets/6021383/5755764/03fa1a40-9cb1-11e4-9266-031d22a09f93.png)
 ![](https://cloud.githubusercontent.com/assets/6021383/5755757/fb8fa5fa-9cb0-11e4-8c7b-2273adb65c36.png)
 
-https://github.com/johnnywjy/JYRadarChart
+### johnnywjy's _JYRadarChart_ [🔗](https://github.com/johnnywjy/JYRadarChart)
 
 ![iPhone Screenshot1](https://github.com/johnnywjy/JYRadarChart/blob/master/screenshots/screenshot_1.png?raw=true)
 ![iPhone Screenshot2](https://github.com/johnnywjy/JYRadarChart/blob/master/screenshots/screenshot_2.png?raw=true)
