@@ -63,10 +63,9 @@ _All of their images are currently unavailable._
 
 ![Screenshot](https://github.com/zhiyu/chartee/raw/master/resource/demo.png)
 
-https://github.com/anaglik/ANDLineChartView
+### anaglik's _ANDLineChartView_ [🔗](https://github.com/anaglik/ANDLineChartView)
 
-![](https://raw.github.com/anaglik/ANDLineChartView/master/example.gif)
-![Alt text](https://raw.github.com/anaglik/ANDLineChartView/master/screen1.png)
+![![Alt text](https://raw.github.com/anaglik/ANDLineChartView/master/screen1.png)](https://raw.github.com/anaglik/ANDLineChartView/master/example.gif)
 
 https://github.com/chasseurmic/TWRCharts
 
