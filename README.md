@@ -4,8 +4,7 @@ A curated list of awesome iOS chart libraries, including [Objective-C](./README.
 
 ## Objective-C
 
-## Dr-Charts:
- [Zomato/Dr-Charts](https://github.com/Zomato/DR-charts)
+### Zomato's _Dr-Charts_ [🔗](https://github.com/Zomato/DR-charts)
  
  ![LineChart](https://raw.githubusercontent.com/Zomato/DR-charts/master/art/LineChart.gif)
  
