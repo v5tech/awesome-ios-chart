@@ -42,7 +42,7 @@ _All of their images are currently unavailable._
 
 _All of their images are currently unavailable._
 
-https://github.com/xhacker/TEAChart
+### xhacker's _TEAChart_ [🔗](https://github.com/xhacker/TEAChart)
 
 ![Clock Chart](http://i.imgur.com/dbk0a5f.png)
 ![Bar Chart](http://i.imgur.com/ScJksKh.png)
