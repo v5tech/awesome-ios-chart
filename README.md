@@ -111,7 +111,7 @@ _All of their images are currently unavailable._
 ![PTChartView](http://farm2.static.flickr.com/1273/4674170304_68b79a8f87.jpg)
 ![PTChartView](http://farm5.static.flickr.com/4072/4674170548_c66cdb1679.jpg)
 
-https://github.com/sakrist/VBPieChart
+### sakrist's _VBPieChart_ [🔗](https://github.com/sakrist/VBPieChart)
 
 ![](https://raw.githubusercontent.com/sakrist/VBPieChart/master/Screenshot.png)
 
