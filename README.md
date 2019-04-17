@@ -138,10 +138,7 @@ _All of their images are currently unavailable._
 
 ![](https://raw.githubusercontent.com/dainkaplan/Chartreuse/master/iphone-screenshot.png)
 
-https://github.com/raspu/RPRadarChart
 
-![](http://raspu.com/b/RPRadarA1.png)
-![](http://raspu.com/b/RPRadarB2.png)
 
 https://github.com/Valentin-Kalchev/VKBarChartView
 
