@@ -333,12 +333,9 @@ https://github.com/JunyiXie/XJYChart
 ![ScreenShot](https://raw.github.com/i-schuetz/SwiftCharts/master/Screenshots/IMG_0040.jpeg)
 ![ScreenShot](https://raw.github.com/i-schuetz/SwiftCharts/master/Screenshots/IMG_0041.jpeg)
 
-https://github.com/PandaraWen/PDChart
+### PandaraWen's _PDChart_ [🔗](https://github.com/PandaraWen/PDChart)
 
-![](http://hte4mj-resource.stor.sinaapp.com/pdchart/PDChartDemo.gif)
-![](http://hte4mj-resource.stor.sinaapp.com/pdchart/lineChart.png)
-![](http://hte4mj-resource.stor.sinaapp.com/pdchart/barChart.png)
-![](http://hte4mj-resource.stor.sinaapp.com/pdchart/pieChart.png)
+_All of their images are currently unavailable._
 
 https://github.com/gpbl/SwiftChart
 
