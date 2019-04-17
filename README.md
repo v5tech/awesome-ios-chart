@@ -271,7 +271,7 @@ https://github.com/JunyiXie/XJYChart
 
 ## Swift
 
-https://github.com/danielgindi/ios-charts
+### DanielGindi's _Charts_ [🔗](https://github.com/danielgindi/Charts)
 
 ![alt tag](https://raw.github.com/danielgindi/ios-charts/master/Assets/feature_graphic.png)
 
@@ -290,37 +290,28 @@ https://github.com/danielgindi/ios-charts
 ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/combined_chart.png)
 
  - **BarChart (with legend, simple design)**
-
 ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/simpledesign_barchart3.png)
 
  - **BarChart (grouped DataSets)**
-
 ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/groupedbarchart.png)
 
  - **Horizontal-BarChart**
-
 ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/horizontal_barchart.png)
 
  - **PieChart (with selection, ...)**
-
 ![alt tag](https://raw.github.com/PhilJay/MPAndroidChart/master/screenshots/simpledesign_piechart1.png)
 
  - **ScatterChart** (with squares, triangles, circles, ... and more)
-
 ![alt tag](https://raw.github.com/PhilJay/MPAndroidChart/master/screenshots/scatterchart.png)
 
  - **CandleStickChart** (for financial data)
-
 ![alt tag](https://raw.github.com/PhilJay/MPAndroidChart/master/screenshots/candlestickchart.png)
 
  - **BubbleChart** (area covered by bubbles indicates the value)
-
 ![alt tag](https://raw.github.com/PhilJay/MPAndroidChart/master/screenshots/bubblechart.png)
 
  - **RadarChart** (spider web chart)
-
 ![alt tag](https://raw.github.com/PhilJay/MPAndroidChart/master/screenshots/radarchart.png)
-
 
 https://github.com/kevinzhow/PNChart-Swift
 
