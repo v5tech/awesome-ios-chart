@@ -38,9 +38,9 @@ _All of their images are currently unavailable._
 
 _All of their images are currently unavailable._
 
-https://github.com/xyfeng/XYPieChart
+### xyfeng's _XYPieChart_ [🔗](https://github.com/xyfeng/XYPieChart)
 
-![](https://dl.dropboxusercontent.com/u/11819416/blog/XYPieChart_Screenshot.png)
+_All of their images are currently unavailable._
 
 https://github.com/xhacker/TEAChart
 
