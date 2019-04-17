@@ -337,7 +337,7 @@ https://github.com/JunyiXie/XJYChart
 
 _All of their images are currently unavailable._
 
-https://github.com/gpbl/SwiftChart
+### gpbl's _SwiftChart_ [🔗](https://github.com/gpbl/SwiftChart)
 
 ![swift](https://cloud.githubusercontent.com/assets/120693/5063755/dcfc9da0-6df3-11e4-9432-974e77a863ed.png)
 
