@@ -59,9 +59,9 @@ _All of their images are currently unavailable._
 ![Screenshot1](https://raw.githubusercontent.com/ArthurGuibert/FSLineChart/master/Screenshots/fslinechart.png)
 ![Screenshot2](https://raw.githubusercontent.com/ArthurGuibert/FSLineChart/master/Screenshots/fslinechart2.png)
 
-https://github.com/zhiyu/chartee
+### zhiyu's _chartee_ [🔗](https://github.com/zhiyu/chartee)
 
-![](https://github.com/zhiyu/chartee/raw/master/resource/demo.png)
+![Screenshot](https://github.com/zhiyu/chartee/raw/master/resource/demo.png)
 
 https://github.com/anaglik/ANDLineChartView
 
