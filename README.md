@@ -30,9 +30,9 @@ A curated list of awesome iOS chart libraries, including [Objective-C](./README.
 
 ![](https://raw.github.com/Jawbone/JBChartView/master/Screenshots/main.jpg)
 
-https://github.com/Boris-Em/BEMSimpleLineGraph
+### Boris-Em's _BEMSimpleLineGraph_ [🔗](https://github.com/Boris-Em/BEMSimpleLineGraph)
 
-![](http://s21.postimg.org/3lkbvgp53/GIF_Touch_Report.gif)
+_All of their images are currently unavailable._
 
 https://github.com/honcheng/iOSPlot
 
