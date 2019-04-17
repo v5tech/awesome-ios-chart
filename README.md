@@ -345,7 +345,7 @@ _All of their images are currently unavailable._
 
 ![Label on touch](https://cloud.githubusercontent.com/assets/120693/5068773/8be0fa9c-6e52-11e4-8b60-aaf76dc9377d.gif)
 
-https://github.com/tylyo/APLineChart
+### tylyo's _APLineChart_ [🔗](https://github.com/tylyo/APLineChart)
 
 ![portrait image](https://raw.github.com/tylyo/APLineChart/master/images/portrait.png)
 ![landscape image](https://raw.github.com/tylyo/APLineChart/master/images/landscape.png)
