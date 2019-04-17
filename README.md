@@ -71,7 +71,7 @@ _All of their images are currently unavailable._
 
 ![TWRCharts Demo](http://cocoahunter-blog.s3.amazonaws.com/TWRCharts/twrcharts_optimized.gif)
 
-https://github.com/nuwehq/nuwe-charts-ios
+### nuwehq's _nuwe-charts-ios_ [🔗](https://github.com/nuwehq/nuwe-charts-ios)
 
 ![](https://cloud.githubusercontent.com/assets/6021383/5755764/03fa1a40-9cb1-11e4-9266-031d22a09f93.png)
 ![](https://cloud.githubusercontent.com/assets/6021383/5755757/fb8fa5fa-9cb0-11e4-8c7b-2273adb65c36.png)
