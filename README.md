@@ -1,8 +1,8 @@
 # awesome-ios-chart
 
-A curated list of awesome iOS chart libraries, including Objective-C and Swift
+A curated list of awesome iOS chart libraries, including [Objective-C](./README.md#objective-c) and [Swift](./README.md#Swift)
 
-* Objective-C
+## Objective-C
 
 ## Dr-Charts:
  [Zomato/Dr-Charts](https://github.com/Zomato/DR-charts)
