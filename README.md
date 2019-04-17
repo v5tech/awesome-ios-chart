@@ -34,10 +34,9 @@ A curated list of awesome iOS chart libraries, including [Objective-C](./README.
 
 _All of their images are currently unavailable._
 
-https://github.com/honcheng/iOSPlot
+### Honcheng's _iOSPlot_ [🔗](https://github.com/honcheng/iOSPlot)
 
-![](http://www.honcheng.com/imagehost/i/img?id=aghob25jaGVuZ3IOCxIFSW1hZ2UY8sCGAgw)
-![](http://www.honcheng.com/imagehost/i/img?id=aghob25jaGVuZ3IOCxIFSW1hZ2UY6raGAgw)
+_All of their images are currently unavailable._
 
 https://github.com/xyfeng/XYPieChart
 
