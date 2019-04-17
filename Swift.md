@@ -1,5 +1,5 @@
 # Swift
-_Go back to the main article : [Main](./README.md)_
+_Go back to the main article : [Main](./README.md)_  
 _Go to the Objective-C article : [Objective-C](./README.md#objective-c)_
 
 ### DanielGindi's _Charts_ [🔗](https://github.com/danielgindi/Charts)
