@@ -18,21 +18,13 @@ A curated list of awesome iOS chart libraries, including [Objective-C](./README.
  
 ### Kevinzhow's _PNChart_ [🔗]( https://github.com/kevinzhow/PNChart )
 
-![Overview](https://dl.dropboxusercontent.com/u/1599662/pnchart.gif)
+![Overview](https://s3.amazonaws.com/farshid.ghods.github/pnchart-gif.gif)
 
-![LineChart](https://dl.dropboxusercontent.com/u/1599662/line.png)
+![LineChart](https://s3.amazonaws.com/farshid.ghods.github/pnchart-linechart-smooth.png)
 
-![BarChart](https://dl.dropboxusercontent.com/u/1599662/bar.png)
+![ColoredLineChart](https://s3.amazonaws.com/farshid.ghods.github/pnchart-rangecolors-2.png)
 
-![CircleChart](https://dl.dropboxusercontent.com/u/1599662/circle.png)
-
-![PieChart](https://dl.dropboxusercontent.com/u/1599662/pie.png)
-
-![ScatterChart](https://dl.dropboxusercontent.com/u/1599662/scatter.png)
-
-![](https://dl.dropboxusercontent.com/u/4904447/pnchart_legend_1.png)
-
-![](https://dl.dropboxusercontent.com/u/4904447/pnchart_legend_2.png)
+![GridLine](https://s3.amazonaws.com/farshid.ghods.github/pnchart-gridline.png)
 
 https://github.com/Jawbone/JBChartView
 
