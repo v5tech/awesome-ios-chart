@@ -48,13 +48,11 @@ _All of their images are currently unavailable._
 ![Bar Chart](http://i.imgur.com/ScJksKh.png)
 ![Colored Bar Chart](http://i.imgur.com/evxPmxb.jpg)
 
-https://github.com/zhuhuihuihui/EChart
+### zhuhuihuihui's _EChart_ [🔗](https://github.com/zhuhuihuihui/EChart)
 
-[![](https://dl.dropboxusercontent.com/s/d2yxmmqa4yjigbu/eColumn.gif)](https://dl.dropboxusercontent.com/s/d2yxmmqa4yjigbu/eColumn.gif)
-
-[![](https://dl.dropboxusercontent.com/s/ehhscvf1m48v04h/eLine.gif)](https://dl.dropboxusercontent.com/s/ehhscvf1m48v04h/eLine.gif)
-
-[![](https://dl.dropboxusercontent.com/s/2we5ay0fv5jmc6y/ePie.gif)](https://dl.dropboxusercontent.com/s/2we5ay0fv5jmc6y/ePie.gif)
+![eColumn](https://dl.dropboxusercontent.com/s/d2yxmmqa4yjigbu/eColumn.gif)
+![eLine](https://dl.dropboxusercontent.com/s/ehhscvf1m48v04h/eLine.gif)
+![ePie](https://dl.dropboxusercontent.com/s/2we5ay0fv5jmc6y/ePie.gif)
 
 https://github.com/ArthurGuibert/FSLineChart
 
