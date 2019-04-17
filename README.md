@@ -67,7 +67,7 @@ _All of their images are currently unavailable._
 
 ![![Alt text](https://raw.github.com/anaglik/ANDLineChartView/master/screen1.png)](https://raw.github.com/anaglik/ANDLineChartView/master/example.gif)
 
-https://github.com/chasseurmic/TWRCharts
+### chasseurmic's _TWRCharts_ [🔗](https://github.com/chasseurmic/TWRCharts)
 
 ![TWRCharts Demo](http://cocoahunter-blog.s3.amazonaws.com/TWRCharts/twrcharts_optimized.gif)
 
