@@ -119,7 +119,7 @@ _All of their images are currently unavailable._
 
 _All of their images are currently unavailable._
 
-https://github.com/eternityz/RWBarChartView
+### eternityz's _RWBarChartView_ [🔗](https://github.com/eternityz/RWBarChartView)
 
 ![](https://raw.github.com/eternityz/RWBarChartView/master/Screenshots/demo.gif)
 
