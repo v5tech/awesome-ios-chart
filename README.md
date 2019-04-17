@@ -88,7 +88,7 @@ _All of their images are currently unavailable._
 ![](https://raw.githubusercontent.com/ArthurGuibert/FSInteractiveMap/master/Screenshots/screen01.png)
 ![](https://raw.githubusercontent.com/ArthurGuibert/FSInteractiveMap/master/Screenshots/screen02.png)
 
-https://github.com/sebastienwindal/FRD3DBarChart
+### sebastienwindal's _FRD3DBarChart_ [🔗](https://github.com/sebastienwindal/FRD3DBarChart)
 
 ![](https://raw.githubusercontent.com/sebastienwindal/FRD3DBarChart/master/screenshot.png)
 ![](https://raw.githubusercontent.com/sebastienwindal/FRD3DBarChart/master/screenshot2.png)
