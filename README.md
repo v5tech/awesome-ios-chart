@@ -16,25 +16,23 @@ A curated list of awesome iOS chart libraries, including [Objective-C](./README.
  
  ![CircularChart](https://raw.githubusercontent.com/Zomato/DR-charts/master/art/CircularChart.gif) 
  
- 
- 
-https://github.com/kevinzhow/PNChart
+### Kevinzhow's _PNChart_ [🔗]( https://github.com/kevinzhow/PNChart )
 
-[![](https://dl.dropboxusercontent.com/u/1599662/pnchart.gif)](https://dl.dropboxusercontent.com/u/1599662/pnchart.gif)
+![Overview](https://dl.dropboxusercontent.com/u/1599662/pnchart.gif)
 
-[![](https://dl.dropboxusercontent.com/u/1599662/line.png)](https://dl.dropboxusercontent.com/u/1599662/line.png)
+![LineChart](https://dl.dropboxusercontent.com/u/1599662/line.png)
 
-[![](https://dl.dropboxusercontent.com/u/1599662/bar.png)](https://dl.dropboxusercontent.com/u/1599662/bar.png)
+![BarChart](https://dl.dropboxusercontent.com/u/1599662/bar.png)
 
-[![](https://dl.dropboxusercontent.com/u/1599662/circle.png)](https://dl.dropboxusercontent.com/u/1599662/circle.png)
+![CircleChart](https://dl.dropboxusercontent.com/u/1599662/circle.png)
 
-[![](https://dl.dropboxusercontent.com/u/1599662/pie.png)](https://dl.dropboxusercontent.com/u/1599662/pie.png)
+![PieChart](https://dl.dropboxusercontent.com/u/1599662/pie.png)
 
-[![](https://dl.dropboxusercontent.com/u/1599662/scatter.png)](https://dl.dropboxusercontent.com/u/1599662/scatter.png)
+![ScatterChart](https://dl.dropboxusercontent.com/u/1599662/scatter.png)
 
-[![](https://dl.dropboxusercontent.com/u/4904447/pnchart_legend_1.png)](https://dl.dropboxusercontent.com/u/4904447/pnchart_legend_1.png)
+![](https://dl.dropboxusercontent.com/u/4904447/pnchart_legend_1.png)
 
-[![](https://dl.dropboxusercontent.com/u/4904447/pnchart_legend_2.png)](https://dl.dropboxusercontent.com/u/4904447/pnchart_legend_2.png)
+![](https://dl.dropboxusercontent.com/u/4904447/pnchart_legend_2.png)
 
 https://github.com/Jawbone/JBChartView
 
