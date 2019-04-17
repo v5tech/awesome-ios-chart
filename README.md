@@ -115,9 +115,9 @@ _All of their images are currently unavailable._
 
 ![](https://raw.githubusercontent.com/sakrist/VBPieChart/master/Screenshot.png)
 
-https://github.com/ZhipingYang/UUChartView
+### ZhipingYang's _UUChartView_ [🔗](https://github.com/ZhipingYang/UUChartView)
 
-![](https://github.com/ZhipingYang/UUChartView/raw/master/UUChartViewTests/UUChartView.gif)
+_All of their images are currently unavailable._
 
 https://github.com/eternityz/RWBarChartView
 
