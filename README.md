@@ -356,7 +356,7 @@ _All of their images are currently unavailable._
 
 ![Overview](https://raw.githubusercontent.com/DuncanMC/PieChart/master/Screenshot.jpg)
 
-https://github.com/kevinbrewster/SwiftCharts
+### kevinbrewster's _SwiftCharts_ [🔗](https://github.com/kevinbrewster/SwiftCharts)
 
 ![Simple Example](http://kevinbrewster.github.io/SwiftCharts/images/simple_example.png)
 ![Advanced Example](http://kevinbrewster.github.io/SwiftCharts/images/advanced_example.png)
