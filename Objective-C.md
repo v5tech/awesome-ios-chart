@@ -1,6 +1,6 @@
 # Objective-C
 _Go back to the main article : [Main](./README.md)_  
-_Go to the Swift article : [Swift](./README.md#Swift)_
+_Go to the Swift article : [Swift](./Swift.md)_
 
 ### Zomato's _Dr-Charts_ [🔗](https://github.com/Zomato/DR-charts)
  
